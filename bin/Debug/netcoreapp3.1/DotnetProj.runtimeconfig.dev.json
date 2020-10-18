@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/edureka/.dotnet/store/|arch|/|tfm|",
+      "/home/edureka/.nuget/packages"
+    ]
+  }
+}
